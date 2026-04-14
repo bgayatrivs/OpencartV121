@@ -24,3 +24,15 @@
 20:06:05.531 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ****
 20:06:09.037 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
 20:06:12.092 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
+16:46:37.824 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bgaya\eclipse-workspace\OpencartV121\master.xml"
+16:46:38.063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bgaya\eclipse-workspace\OpencartV121\master.xml
+
+16:46:45.147 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:46:45.319 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+16:46:45.700 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+16:46:45.703 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:46:47.805 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:46:47.846 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ****
+16:46:50.149 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+16:46:52.072 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
